@@ -1,0 +1,3 @@
+# Crime_Rate_and_school_performance_in_New_York_City
+This is the final project for Principles of Urban Informatics at New York University. In this project I studied how crime rates and health status (drug ratio and asthma ratio) affects students' school performance.
+This notebook was written in Google Colab and displays best on that platform. We were suggested to analyze on the puma level, which divides New York City into smaller zones. Because I prefer using folium to draw maps I used a geojson file that splits New York City into five counties. The base map contains more details and it is interactive, though the city was not divided into smaller areas like our professor required.
